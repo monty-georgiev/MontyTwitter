@@ -1,0 +1,1 @@
+This reporitory's sole purpose is to hold the files of the MVC Homework - ASP.NET MVC Twitter.
