@@ -1,0 +1,14 @@
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\bin\Debug\MontyTwitter.Models.dll.config
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\bin\Debug\MontyTwitter.Models.dll
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\bin\Debug\MontyTwitter.Models.pdb
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\bin\Debug\EntityFramework.dll
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\bin\Debug\EntityFramework.xml
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\obj\Debug\MontyTwitter.Models.csprojResolveAssemblyReference.cache
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\obj\Debug\MontyTwitter.Models.dll
+C:\VS_Projects\mvc\MontyTwitter\MontyTwitter\MontyTwitter.Models\obj\Debug\MontyTwitter.Models.pdb
